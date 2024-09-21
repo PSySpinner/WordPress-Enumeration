@@ -51,9 +51,9 @@ Enumerate Multiple URLs from a File
 
 
 ## Supported Output Formats:
-`html`: Generates a report in HTML format, including a snapshot of the site.
-`markdown`: Generates a report in Markdown format.
-`text`: Generates a plain text report.
+- `html`: Generates a report in HTML format, including a snapshot of the site.
+- `markdown`: Generates a report in Markdown format.
+- `text`: Generates a plain text report.
 
 
 ## Output Files
